@@ -25,7 +25,6 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
 ##
 
 <div style="display: inline_block"><br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <img align="center" alt="" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp;
