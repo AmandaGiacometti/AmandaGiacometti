@@ -8,6 +8,7 @@
 Oii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" / "dela". <br>
 Sou desenvolvedora Fullstack Jr, formada pela Generation Brasil (McKinsey & Co.) e em transição de carreira. <br>
+Minhas principais áreas de estudo são Java no backend e React no Front-end. <br>
 Sou comunicativa e curiosa, estou sempre em busca de continuar aprendendo. <br> 
 Também valorizo muito a diversidade e conhecer novas pessoas :) <br>
 Fique a vontade para visitar meu perfil e entrar em contato comigo!
