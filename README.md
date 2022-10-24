@@ -45,8 +45,3 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
   <a href="https://github.com/mangiaco">
   <img align="center" alt="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangiaco&layout=compact&langs_count=7&theme=radical" />
 </div>
-
-##
-
-![Snake animation](https://github.com/ManGiaco/ManGiaco/blob/output/github-contribution-grid-snake.svg)
-
