@@ -1,4 +1,4 @@
-<div display="flex" flex-direction="row" align="center">
+<div display="flex" flex-direction="row">
 <img src="https://komarev.com/ghpvc/?username=ManGiaco&label=Profile%20views&color=800000&style=flat" alt="" />
 </div>
 <br>
