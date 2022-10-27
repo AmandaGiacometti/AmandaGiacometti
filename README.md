@@ -22,8 +22,10 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
 <div align="left">  
   Você me encontra por aqui:   
   <br> <br>
-  <a href="mailto:amandagiacomettipedrosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/mangiaco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mangiaco"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp;
+  <a href="mailto:amandagiacomettipedrosa@gmail.com"><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; 
+  <a href="https://drive.google.com/file/d/14HzsAfGg7HhzHN26VnLR8_sBkG61aVhO/view"><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp;
+  
 </div>
 <br>
 
