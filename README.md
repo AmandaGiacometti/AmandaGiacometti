@@ -1,7 +1,7 @@
 <div display="flex" flex-direction="row">
 <img src="https://komarev.com/ghpvc/?username=ManGiaco&label=Profile%20views&color=800000&style=flat" alt="" />
 </div>
-<br>
+<br> 
 <p align="center">
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=40&duration=3000&pause=600&color=FFFFFF&background=none&center=true&vCenter=true&width=1000&lines=Eaaaaiiii+como+vai??;Meu+nome+é+Amanda+Giacometti+:);Sou+desenvolvedora+Fullstack+Jr.;Seja+bem+vindo+(a)+(e)+!+!+!" alt="Typing SVG" /></a>
 
