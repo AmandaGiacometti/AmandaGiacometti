@@ -8,6 +8,7 @@
 
 ##
 
+<div>
 <img align="right" width="350" height="320" alt="GIF divertido de um cachorro digitando em um computador" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
 
 <div align="left">
@@ -19,25 +20,23 @@ Sou comunicativa e curiosa, estou sempre em busca de continuar aprendendo. <br>
 Também valorizo muito a diversidade e conhecer novas pessoas :) <br>
 Fique a vontade para visitar meu perfil e entrar em contato comigo!
 </div>
-
-##
-  
+<br>  
+<br>  
 <div display="flex" flex-direction="row" align="center">  
   Você me encontra por aqui:   
-</div>  
 <br>
-<div display="flex" flex-direction="row" align="center">  
+<br>  
   <a href="https://www.linkedin.com/in/mangiaco"><img alt="Logo do Linkedin. Se você clicar, será redirecionado para meu Linkedin" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp;
   <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Logo do Gmail. Se você clicar, será redirecionado para meu email" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; 
   <a href="https://drive.google.com/file/d/14HzsAfGg7HhzHN26VnLR8_sBkG61aVhO/view"><img alt="Imagem de um currículo. Se você clicar, será redirecionado para meu currículo digitalizado em formato PDF!" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; 
+</div>
 </div>
 
 ##
 
 <div display="flex" flex-direction="row" align="center">  
   Meus conhecimentos:  
-</div)  
-<br>
+</div>
 <br>
 <div display="flex" flex-direction="row" align="center">
     <img align="center" alt="Java" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp;
