@@ -2,13 +2,15 @@
 <img alt="Contador de visualizações" src="https://komarev.com/ghpvc/?username=ManGiaco&label=Profile%20views&color=800000&style=flat" />
 </div>
 <br> 
-<p align="center">
-<a href="https://git.io/typing-svg"> <img "Letreiro animado onde dou boas vindas ao meu Github. Está escrito: Eai como vai? Meu nome é Amanda, sou desenvolvedora fullstack júnior. Seja bem vindo!" src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=40&duration=3000&pause=600&color=FFFFFF&background=none&center=true&vCenter=true&width=1000&lines=Eaaaaiiii+como+vai??;Meu+nome+é+Amanda+Giacometti+:);Sou+desenvolvedora+Fullstack+Jr.;Seja+bem+vindo+(a)+(e)+!+!+!" /></a>
+<a href="https://git.io/typing-svg"> 
+<img "Letreiro animado onde dou boas vindas ao meu Github. Está escrito: Eai como vai? Meu nome é Amanda, sou desenvolvedora fullstack júnior. Seja bem vindo!"     src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=40&duration=3000&pause=600&color=FFFFFF&background=none&center=true&vCenter=true&width=1000&lines=Eaaaaiiii+como+vai??;Meu+nome+é+Amanda+Giacometti+:);Sou+desenvolvedora+Fullstack+Jr.;Seja+bem+vindo+(a)+(e)+!+!+!" />
+</a>
 
 ##
 
-<img align="right" width="350" height="300" alt="GIF divertido de um cachorro digitando em um computador" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
+<img align="right" width="350" height="350" alt="GIF divertido de um cachorro digitando em um computador" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
 
+<div align="left">
 Oii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Sou desenvolvedora fullstack junior, formada pela Generation Brasil (McKinsey & Co.) e em transição de carreira. <br>
@@ -16,6 +18,7 @@ Minhas principais áreas de estudo são Java no back-end e React no front-end. <
 Sou comunicativa e curiosa, estou sempre em busca de continuar aprendendo. <br> 
 Também valorizo muito a diversidade e conhecer novas pessoas :) <br>
 Fique a vontade para visitar meu perfil e entrar em contato comigo!
+</div>
 
 ##
   
@@ -28,7 +31,6 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
   <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Logo do Gmail. Se você clicar, será redirecionado para meu email" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; 
   <a href="https://drive.google.com/file/d/14HzsAfGg7HhzHN26VnLR8_sBkG61aVhO/view"><img alt="Imagem de um currículo. Se você clicar, será redirecionado para meu currículo digitalizado em formato PDF!" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; 
 </div>
-<br>
 
 ##
 
