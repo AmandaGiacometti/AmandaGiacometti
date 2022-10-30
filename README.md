@@ -19,27 +19,32 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
 
 ##
   
-<div align="left">  
+<div display="flex" flex-direction="row" align="center">  
   Você me encontra por aqui:   
-  <br> <br>
+</div>  
+<br>
+<div display="flex" flex-direction="row" align="center">  
   <a href="https://www.linkedin.com/in/mangiaco"><img alt="Logo do Linkedin. Se você clicar, será redirecionado para meu Linkedin" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp;
   <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Logo do Gmail. Se você clicar, será redirecionado para meu email" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; 
-  <a href="https://drive.google.com/file/d/14HzsAfGg7HhzHN26VnLR8_sBkG61aVhO/view"><img alt="Imagem de um currículo. Se você clicar, será redirecionado para meu currículo digitalizado em formato PDF!" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp;
-  
+  <a href="https://drive.google.com/file/d/14HzsAfGg7HhzHN26VnLR8_sBkG61aVhO/view"><img alt="Imagem de um currículo. Se você clicar, será redirecionado para meu currículo digitalizado em formato PDF!" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; 
 </div>
 <br>
 
 ##
 
-<div align="left">  
+<div display="flex" flex-direction="row" align="center">  
   Meus conhecimentos:  
 </div)  
-
-<div style="display: inline_block"><br>
+<br>
+<br>
+<div display="flex" flex-direction="row" align="center">
     <img align="center" alt="Java" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="Spring Boot" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="Docker" height="55" width="55" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" /> &nbsp; &nbsp;
+</div>    
+<br>    
+<div display="flex" flex-direction="row" align="center">    
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> &nbsp; &nbsp;
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> &nbsp; &nbsp;
     <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> &nbsp; &nbsp;
@@ -47,10 +52,13 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
     <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="Material UI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width=50/> &nbsp; &nbsp;
     <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp; &nbsp;
+</div>    
+<br>    
+<div display="flex" flex-direction="row" align="center">     
     <img align="center" alt="GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp; &nbsp;
     <img align="center" alt="JIRA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="agile scrum" height="70" width="70" src="https://miro.medium.com/max/400/0*KpzqUReoWU_DEwb5.png" /> &nbsp; &nbsp;
-<div> 
+</div> 
     
 ##
 
