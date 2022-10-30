@@ -8,7 +8,7 @@
 
 ##
 
-<img align="right" width="350" height="350" alt="GIF divertido de um cachorro digitando em um computador" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
+<img align="right" width="350" height="330" alt="GIF divertido de um cachorro digitando em um computador" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
 
 <div align="left">
 Oii! Como você está? <br>
