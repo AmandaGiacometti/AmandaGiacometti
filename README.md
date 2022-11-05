@@ -61,12 +61,6 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
     <img align="center" alt="agile scrum" height="70" width="70" src="https://miro.medium.com/max/400/0*KpzqUReoWU_DEwb5.png" /> &nbsp; &nbsp;
     <img align="center" alt="JIRA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> &nbsp; &nbsp;
 </div> 
-<br>    
-<div display="flex" flex-direction="row" align="center">
-  <img align="center" alt="Insomnia" height="40" width="40" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" /> &nbsp; &nbsp;
-  <img align="center" alt="Visual Studio Code" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /> &nbsp; &nbsp;
-  <img align="center" alt="Eclipse IDE" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png" /> &nbsp; &nbsp;
-</div>
     
 ##
 
