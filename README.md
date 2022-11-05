@@ -3,7 +3,7 @@
 </div>
 <br> 
 <a href="https://git.io/typing-svg"> 
-<img "Letreiro animado onde dou boas vindas ao meu Github. Está escrito: Eai como vai? Meu nome é Amanda, sou desenvolvedora fullstack júnior. Seja bem vindo!"     src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=40&duration=3000&pause=600&color=FFFFFF&background=none&center=true&vCenter=true&width=1000&lines=Eaaaaiiii+como+vai??;Meu+nome+é+Amanda+Giacometti+:);Sou+desenvolvedora+Fullstack+Jr.;Seja+bem+vindo+(a)+(e)+!+!+!" />
+<img "Letreiro animado onde dou boas vindas ao meu Github. Está escrito: Eai como vai? Meu nome é Amanda, sou desenvolvedora fullstack júnior. Seja bem vindo!"     src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=40&duration=3000&pause=600&color=FFFFFF&background=none&center=true&vCenter=true&width=1000&lines=Eaaaaiiii+como+vai??+:);Seja+bem+vindo+(a)+(e)+!+!+!" />
 </a>
 
 ##
@@ -42,7 +42,7 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
     <img align="center" alt="Java" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="Spring Boot" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="Docker" height="55" width="55" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" /> &nbsp; &nbsp;
+    <img align="center" alt="Programação orientada a objeto" height="55" width="55" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" /> &nbsp; &nbsp;
 </div>    
 <br>    
 <div display="flex" flex-direction="row" align="center">    
