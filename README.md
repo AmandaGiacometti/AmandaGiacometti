@@ -64,7 +64,9 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
     
 ##
 
-<div align="center">
-  <a href="https://github.com/mangiaco">
+<div display="flex" flex-direction="row" align="center">
   <img align="center" alt="Gráfico que mostra as tecnologias que mais utilizo no Github" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangiaco&layout=compact&langs_count=7&theme=radical" />
 </div>
+<div display="flex" flex-direction="row" align="center">
+  <img align="center" alt="Gráfico que mostra o ranking dos meus commits e da minha quantidade de repositórios" width="800" src="https://github-profile-trophy.vercel.app/?username=ManGiaco&theme=darkhub&title=Commit,Repositories&margin-w=10&margin-h=10" />
+</div>  
