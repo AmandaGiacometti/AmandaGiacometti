@@ -65,6 +65,7 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
 ##
 
 <div>
-<div align="center">
-  <img align="center" alt="Gráfico que mostra as tecnologias que mais utilizo no Github" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangiaco&layout=compact&langs_count=7&theme=radical" />
+  <img align="right" alt="Gráfico que mostra as tecnologias que mais utilizo no Github" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangiaco&layout=compact&langs_count=7&theme=radical" />
+  <img align="left" alt="Gráfico que mostra as tecnologias que mais utilizo no Github" width="300" src="https://bestanimations.com/media/computers/372537006funny-computer-animated-gif-45.gif" />
+  
 </div>
