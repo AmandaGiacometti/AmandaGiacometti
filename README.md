@@ -12,9 +12,10 @@
 <img align="right" width="350" height="320" alt="GIF divertido de um cachorro digitando em um computador" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
 
 <div align="left">
+Oii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Sou desenvolvedora fullstack junior, formada pela Generation Brasil (McKinsey & Co.) e em transição de carreira. <br>
-Minhas principais áreas de estudo são Java no back-end e React no front-end. <br>
+Minhas principais áreas de estudo são Java no back-end e React no front-end. Também estou habituada a metodologias ágeis. <br>
 Sou comunicativa e curiosa, estou sempre em busca de continuar aprendendo. <br> 
 Também valorizo muito a diversidade e conhecer novas pessoas :) <br>
 Fique a vontade para visitar meu perfil e entrar em contato comigo!
