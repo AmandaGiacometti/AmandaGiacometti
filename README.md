@@ -12,7 +12,6 @@
 <img align="right" width="350" height="320" alt="GIF divertido de um cachorro digitando em um computador" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
 
 <div align="left">
-Oii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Sou desenvolvedora fullstack junior, formada pela Generation Brasil (McKinsey & Co.) e em transição de carreira. <br>
 Minhas principais áreas de estudo são Java no back-end e React no front-end. <br>
@@ -64,8 +63,6 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
     
 ##
 
-<div>
-  <img align="right" alt="Gráfico que mostra as tecnologias que mais utilizo no Github" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangiaco&layout=compact&langs_count=7&theme=radical" />
-  <img align="left" alt="Gráfico que mostra as tecnologias que mais utilizo no Github" width="300" src="https://bestanimations.com/media/computers/372537006funny-computer-animated-gif-45.gif" />
-  
+<div align="center">
+  <img align="center" alt="Gráfico que mostra as tecnologias que mais utilizo no Github" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangiaco&layout=compact&langs_count=7&theme=radical" /> 
 </div>
