@@ -28,7 +28,7 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
 <br>  
   <a href="https://www.linkedin.com/in/mangiaco"><img alt="Logo do Linkedin. Se você clicar, será redirecionado para meu Linkedin" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp;
   <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Logo do Gmail. Se você clicar, será redirecionado para meu email" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; 
-  <a href="https://drive.google.com/file/d/14HzsAfGg7HhzHN26VnLR8_sBkG61aVhO/view"><img alt="Imagem de um currículo. Se você clicar, será redirecionado para meu currículo digitalizado em formato PDF!" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; 
+  <a href="https://drive.google.com/file/d/1n1NgOnurHGUBh72EzyglDT8SrZ_rUwIx/view?usp=share_link"><img alt="Imagem de um currículo. Se você clicar, será redirecionado para meu currículo digitalizado em formato PDF!" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; 
 </div>
 </div>
 
