@@ -49,6 +49,7 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> &nbsp; &nbsp;
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> &nbsp; &nbsp;
     <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> &nbsp; &nbsp;
+    <img align="center" alt="Node" height="40" width="60" src="https://deinfo.uepg.br/~alunoso/2020/SO/NODE.JS/dist/images/nodejslogofeaturedark.png" /> &nbsp; &nbsp;
     <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> &nbsp; &nbsp;
     <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="Material UI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width=50/> &nbsp; &nbsp;
