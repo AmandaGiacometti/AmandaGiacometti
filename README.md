@@ -43,7 +43,7 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
   <a href="https://www.linkedin.com/in/mangiaco"><img alt="Meu perfil no Linkedin. My Linkedin profile." height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
   <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Meu email. My email adress." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
   Português: &nbsp; <a href="https://drive.google.com/file/d/116ngtGnE20G4StF74kFDUJzuax3OlwUP/view?usp=sharing"><img alt="Meu currículo em português. My curriculum in portuguese." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
-  English: &nbsp; <a href="https://drive.google.com/file/d/1X_OD7GXnO3O1FSBF5LSecurmX0jXwikS/view?usp=sharing"><img alt="Meu currículo em inglês. My curriculum in english." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; &nbsp;
+  English: &nbsp; <a href="https://drive.google.com/file/d/1U652tOUPdQ-S9LAPVHFhbOV98ibdhYRv/view?usp=share_link"><img alt="Meu currículo em inglês. My curriculum in english." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; &nbsp;
 </div>
 </div>
 
