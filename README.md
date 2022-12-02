@@ -23,7 +23,7 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
 <br>
 <br>  
 <img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
-Heey! Hoy you're doing? <br>
+Heey! How you're doing? <br>
 I'm Amanda and my pronouns are "she" and "her". <br>
 I'm a junior full stack developer, graduated from Generation Brazil (McKinsey & Co.) and in career transition. <br>
 My main study areas are Java (back-end) and React (front-end). I am also used to agile methodologies. <br>
