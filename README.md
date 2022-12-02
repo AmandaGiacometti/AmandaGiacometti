@@ -12,7 +12,7 @@
 <img align="right" width="400" height="500" alt="Português: GIF divertido de um cachorro digitando em um computador. English: funny GIF of a god typing in a computer" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
 
 <div align="left">
-<img align="left" width="25" height="23" alt="" src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
+<img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazil flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
 Oii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Sou desenvolvedora fullstack junior, formada pela Generation Brasil (McKinsey & Co.) e em transição de carreira. <br>
@@ -22,7 +22,7 @@ Também valorizo muito a diversidade e conhecer novas pessoas :) <br>
 Fique a vontade para visitar meu perfil e entrar em contato comigo!
 <br>
 <br>  
-<img align="left" width="25" height="23" alt="" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
+<img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
 Heey! Hoy you're doing? <br>
 I'm Amanda and my pronouns are "she" and "her". <br>
 I'm a junior full stack developer, graduated from Generation Brazil (McKinsey & Co.) and in career transition. <br>
