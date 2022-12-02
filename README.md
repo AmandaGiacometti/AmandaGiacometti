@@ -3,15 +3,16 @@
 </div>
 <br> 
 <a href="https://git.io/typing-svg"> 
-<img "Letreiro animado onde dou boas vindas ao meu Github. Está escrito: Eai como vai? Meu nome é Amanda, sou desenvolvedora fullstack júnior. Seja bem vindo!"     src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=40&duration=3000&pause=600&color=FFFFFF&background=none&center=true&vCenter=true&width=1000&lines=Eaaaaiiii+como+vai??+:);Seja+bem+vindo+(a)+(e)+!+!+!" />
+<img "Português: Letreiro animado onde dou boas vindas ao meu Github. Está escrito: Eai como vai? Seja bem vindo! English: Animated sign where I welcome you to my Github. It says: Hey, how you're doing? You're so welcome!" src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=40&duration=3000&pause=600&color=FFFFFF&background=none&center=true&vCenter=true&width=1000&lines=Eaaaaiiii+como+vai??+:);Heeeey+how+you're+doing+today?;Seja+bem+vindo+(a)+(e)+!+!+!;You're+so+welcome+:)" />
 </a>
 
 ##
 
 <div>
-<img align="right" width="350" height="320" alt="GIF divertido de um cachorro digitando em um computador" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
+<img align="right" width="400" height="500" alt="Português: GIF divertido de um cachorro digitando em um computador. English: funny GIF of a god typing in a computer" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
 
 <div align="left">
+<img align="left" width="25" height="23" alt="" src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
 Oii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Sou desenvolvedora fullstack junior, formada pela Generation Brasil (McKinsey & Co.) e em transição de carreira. <br>
@@ -19,23 +20,37 @@ Minhas principais áreas de estudo são Java no back-end e React no front-end. T
 Sou comunicativa e curiosa, estou sempre em busca de continuar aprendendo. <br> 
 Também valorizo muito a diversidade e conhecer novas pessoas :) <br>
 Fique a vontade para visitar meu perfil e entrar em contato comigo!
+<br>
+<br>  
+<img align="left" width="25" height="23" alt="" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
+Heey! Hoy you're doing? <br>
+I'm Amanda and my pronouns are "she" and "her". <br>
+I'm a junior full stack developer, graduated from Generation Brazil (McKinsey & Co.) and in career transition. <br>
+My main study areas are Java (back-end) and React (front-end). I am also used to agile methodologies. <br>
+I am a communicative and curious person, and I'm always looking to keep learning. <br> 
+I also really value diversity and meeting new people :) <br>
+Feel free to visit my profile and get in touch with me!  
 </div>
 <br>  
 <br>  
+  
+##  
+  
 <div display="flex" flex-direction="row" align="center">  
-  Você me encontra por aqui:   
+Você me encontra por aqui: &nbsp; // &nbsp; You can find me here: 
 <br>
 <br>  
-  <a href="https://www.linkedin.com/in/mangiaco"><img alt="Logo do Linkedin. Se você clicar, será redirecionado para meu Linkedin" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp;
-  <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Logo do Gmail. Se você clicar, será redirecionado para meu email" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; 
-  <a href="https://drive.google.com/file/d/1agGmPY-CJW25aA06GNt1VERt6UWnL6UD/view?usp=share_link"><img alt="Imagem de um currículo. Se você clicar, será redirecionado para meu currículo digitalizado em formato PDF!" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; 
+  <a href="https://www.linkedin.com/in/mangiaco"><img alt="Meu perfil no Linkedin. My Linkedin profile." height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
+  <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Meu email. My email adress." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
+  Português: &nbsp; <a href="https://drive.google.com/file/d/1agGmPY-CJW25aA06GNt1VERt6UWnL6UD/view?usp=share_link"><img alt="Meu currículo em português. My curriculum in portuguese." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
+  English: &nbsp; <a href="https://drive.google.com/file/d/1agGmPY-CJW25aA06GNt1VERt6UWnL6UD/view?usp=share_link"><img alt="Meu currículo em inglês. My curriculum in english." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1412/1412225.png" target="_blank"></a> &nbsp; &nbsp; &nbsp;
 </div>
 </div>
 
 ##
 
 <div display="flex" flex-direction="row" align="center">  
-  Meus conhecimentos:  
+  Meus conhecimentos: &nbsp; // &nbsp; My skills:  
 </div>
 <br>
 <div display="flex" flex-direction="row" align="center">
