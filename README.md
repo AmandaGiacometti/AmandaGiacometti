@@ -42,8 +42,8 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
 <br>  
   <a href="https://www.linkedin.com/in/mangiaco"><img alt="Meu perfil no Linkedin. My Linkedin profile." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
   <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Meu email. My email adress." height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
-  <a href="https://drive.google.com/file/d/1rWO0hXi7AVvRVIOZMNR--iUkwf5Wh38H/view?usp=share_link"><img alt="Meu currículo em português. My curriculum in portuguese." height="50" width="120" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/Component%201khkujb.png?raw=true" target="_blank"></a> &nbsp; &nbsp; &nbsp;
-  <a href="https://drive.google.com/file/d/1u7h1XHiAa9ZagnH5DiNxN-mxILt6s8T1/view?usp=share_link"><img alt="Meu currículo em inglês. My curriculum in english." height="50" width="120" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/afaffsa.png?raw=true" target="_blank"></a> &nbsp; &nbsp; &nbsp;
+  <a href="https://drive.google.com/file/d/1rvVJa09NO7cS2geN3YnJeVIcJ2g7MSHH/view?usp=sharing"><img alt="Meu currículo em português. My curriculum in portuguese." height="50" width="120" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/Component%201khkujb.png?raw=true" target="_blank"></a> &nbsp; &nbsp; &nbsp;
+  <a href="https://drive.google.com/file/d/1l14swhIV-MQQ3uWL4GofjbZEjdbHxv8s/view?usp=sharing"><img alt="Meu currículo em inglês. My curriculum in english." height="50" width="120" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/afaffsa.png?raw=true" target="_blank"></a> &nbsp; &nbsp; &nbsp;
 </div>
 </div>
 
