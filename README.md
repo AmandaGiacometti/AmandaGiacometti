@@ -58,7 +58,6 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
     <img align="center" alt="Java" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="Spring Boot" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp;
     <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="Power BI" height="45" width="75" src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo.png" /> &nbsp; &nbsp;
 </div>    
 <br>    
 <div display="flex" flex-direction="row" align="center">    
