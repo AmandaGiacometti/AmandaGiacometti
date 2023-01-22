@@ -15,7 +15,7 @@
 <img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazil flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
 Oii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
-Sou desenvolvedora fullstack junior, formada pela Generation Brasil (McKinsey & Co.) e em transição de carreira. <br>
+Sou desenvolvedora fullstack em transição de carreira, formada pela Generation Brasil (McKinsey & Co.) e cursando Análise e Desenvolvimento de Sistemas na FATEC - SP. <br>
 Minhas principais áreas de estudo são Java no back-end e React no front-end. Também estou habituada a metodologias ágeis. <br>
 Sou comunicativa e curiosa, estou sempre em busca de continuar aprendendo. <br> 
 Também valorizo muito a diversidade e conhecer novas pessoas :) <br>
@@ -25,7 +25,7 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
 <img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
 Heey! How you're doing? <br>
 I'm Amanda and my pronouns are "she" and "her". <br>
-I'm a junior full stack developer, graduated from Generation Brazil (McKinsey & Co.) and in career transition. <br>
+I'm a junior full stack developer in career transition, graduated from Generation (McKinsey & Co.) and studying Systems Analysis and Development at FATEC - SP. <br>
 My main study areas are Java (back-end) and React (front-end). I am also used to agile methodologies. <br>
 I am a communicative and curious person, and I'm always looking to keep learning. <br> 
 I also really value diversity and meeting new people :) <br>
@@ -42,8 +42,6 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
 <br>  
   <a href="https://www.linkedin.com/in/mangiaco"><img alt="Meu perfil no Linkedin. My Linkedin profile." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
   <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Meu email. My email adress." height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
-  <a href="https://drive.google.com/file/d/1rvVJa09NO7cS2geN3YnJeVIcJ2g7MSHH/view?usp=sharing"><img alt="Meu currículo em português. My curriculum in portuguese." height="50" width="120" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/Component%201khkujb.png?raw=true" target="_blank"></a> &nbsp; &nbsp; &nbsp;
-  <a href="https://drive.google.com/file/d/1l14swhIV-MQQ3uWL4GofjbZEjdbHxv8s/view?usp=sharing"><img alt="Meu currículo em inglês. My curriculum in english." height="50" width="120" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/afaffsa.png?raw=true" target="_blank"></a> &nbsp; &nbsp; &nbsp;
 </div>
 </div>
 
