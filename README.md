@@ -25,7 +25,7 @@ Fique a vontade para visitar meu perfil e entrar em contato comigo!
 <img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
 Heey! How you're doing? <br>
 I'm Amanda and my pronouns are "she" and "her". <br>
-I'm a junior full stack developer in career transition, graduated from Generation (McKinsey & Co.) and studying Systems Analysis and Development at FATEC - SP. <br>
+I'm a full stack developer in career transition, graduated from Generation (McKinsey & Co.) and studying Systems Analysis and Development at FATEC - SP. <br>
 My main study areas are Java (back-end) and React (front-end). I am also used to agile methodologies. <br>
 I am a communicative and curious person, and I'm always looking to keep learning. <br> 
 I also really value diversity and meeting new people :) <br>
