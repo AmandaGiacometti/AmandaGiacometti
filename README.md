@@ -9,27 +9,23 @@
 ##
 
 <div>
-<img align="right" width="400" height="500" alt="Português: GIF divertido de um cachorro digitando em um computador. English: funny GIF of a god typing in a computer" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
+<img align="right" width="400" height="400" alt="Português: GIF de um cachorro digitando em um computador. English: GIF of a god typing in a computer" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
 
 <div align="left">
-<img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazil flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
+<img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazilian flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
 Oii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Sou desenvolvedora fullstack em transição de carreira, formada pela Generation Brasil (McKinsey & Co.) e cursando Análise e Desenvolvimento de Sistemas na FATEC - SP. <br>
-Minhas principais áreas de estudo são Java no back-end e React no front-end. Também estou habituada a metodologias ágeis. <br>
-Sou comunicativa e curiosa, estou sempre em busca de continuar aprendendo. <br> 
-Também valorizo muito a diversidade e conhecer novas pessoas :) <br>
-Fique a vontade para visitar meu perfil e entrar em contato comigo!
+Minhas principais áreas de estudo são Java no back-end e React no front-end. <br>
+Fique a vontade para visitar meu perfil e entrar em contato comigo :)
 <br>
 <br>  
 <img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
 Heey! How you're doing? <br>
 I'm Amanda and my pronouns are "she" and "her". <br>
 I'm a full stack developer in career transition, graduated from Generation (McKinsey & Co.) and studying Systems Analysis and Development at FATEC - SP. <br>
-My main study areas are Java (back-end) and React (front-end). I am also used to agile methodologies. <br>
-I am a communicative and curious person, and I'm always looking to keep learning. <br> 
-I also really value diversity and meeting new people :) <br>
-Feel free to visit my profile and get in touch with me!  
+My main study areas are Java (back-end) and React (front-end). <br>
+Feel free to visit my profile and get in touch with me :)  
 </div>
 <br>  
 <br>  
