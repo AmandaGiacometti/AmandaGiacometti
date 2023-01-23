@@ -9,7 +9,7 @@
 ##
 
 <div>
-<img align="right" width="400" height="400" alt="Português: GIF de um cachorro digitando em um computador. English: GIF of a god typing in a computer" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/ReadMe/corgi-computer.gif?raw=true">
+<img align="right" width="400" height="400" alt="Português: GIF de um cachorro digitando em um computador. English: GIF of a god typing in a computer" src="https://i.imgur.com/1GfCQq9.gif">
 
 <div align="left">
 <img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazilian flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
