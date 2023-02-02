@@ -48,27 +48,30 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
 </div>
 <br>
 <div display="flex" flex-direction="row" align="center">
-    <img align="center" alt="Programação orientada a objeto" height="55" width="55" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" /> &nbsp; &nbsp;
-    <img align="center" alt="Java" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="Spring Boot" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp;
+    <img align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Spring Boot" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Microsoft SQL Server" height="60" width="70" src="https://i.imgur.com/mihltqV.png" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Power BI" height="55" width="40" src="https://i.imgur.com/iKSy0Kd.png" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Azure" height="50" width="45" src="https://i.imgur.com/vr5vSj7.png" /> &nbsp; &nbsp; &nbsp;    
+    
 </div>    
 <br>    
 <div display="flex" flex-direction="row" align="center">    
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="Tailwind" height="50" width="40" src="https://i.imgur.com/c0oSADu.png" /> &nbsp; &nbsp;
-    <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp; &nbsp;
+    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Tailwind" height="50" width="50" src="https://i.imgur.com/OmanM8K.png" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp; &nbsp; &nbsp;
 </div>    
 <br>    
 <div display="flex" flex-direction="row" align="center">     
-    <img align="center" alt="GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp; &nbsp;
-    <img align="center" alt="Github" height="50" width="50" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" /> &nbsp; &nbsp;
-    <img align="center" alt="agile scrum" height="70" width="70" src="https://miro.medium.com/max/400/0*KpzqUReoWU_DEwb5.png" /> &nbsp; &nbsp;
-    <img align="center" alt="JIRA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> &nbsp; &nbsp;
+    <img align="center" alt="GIT" height="35" width="80" src="https://i.imgur.com/Uco1sd6.png" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Github" height="50" width="50" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Agile scrum" height="70" width="70" src="https://miro.medium.com/max/400/0*KpzqUReoWU_DEwb5.png" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="JIRA" height="30" width="90" src="https://i.imgur.com/EK9b41G.png" /> &nbsp; &nbsp; &nbsp;
 </div> 
     
 ##
