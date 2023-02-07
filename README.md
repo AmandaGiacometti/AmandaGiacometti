@@ -73,9 +73,3 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
     <img align="center" alt="Agile scrum" height="70" width="70" src="https://miro.medium.com/max/400/0*KpzqUReoWU_DEwb5.png" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="JIRA" height="30" width="90" src="https://i.imgur.com/EK9b41G.png" /> &nbsp; &nbsp; &nbsp;
 </div> 
-    
-##
-
-<div align="center">
-  <img align="center" alt="Gráfico que mostra as tecnologias que mais utilizo no Github" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangiaco&layout=compact&langs_count=7&theme=radical" /> 
-</div>
