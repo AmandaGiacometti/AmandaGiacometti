@@ -52,7 +52,6 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
     <img align="center" alt="Spring Boot" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Microsoft SQL Server" height="60" width="70" src="https://i.imgur.com/mihltqV.png" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="Power BI" height="55" width="40" src="https://i.imgur.com/iKSy0Kd.png" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Azure" height="50" width="45" src="https://i.imgur.com/vr5vSj7.png" /> &nbsp; &nbsp; &nbsp;    
     
 </div>    
