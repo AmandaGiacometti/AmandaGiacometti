@@ -13,7 +13,7 @@
 
 <div align="left">
 <img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazilian flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
-Oii! Como você está? <br>
+Oiii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Sou desenvolvedora fullstack em transição de carreira, formada pela Generation (McKinsey & Co.) e pela Data Women Engineering (DataEX). No momento estou cursando Análise e Desenvolvimento de Sistemas na FATEC - SP. <br>
 Minhas principais áreas de estudo são Java no back-end, React no front-end e engenharia de dados. <br>
