@@ -1,7 +1,6 @@
 <div display="flex" flex-direction="row">
 <img alt="Contador de visualizações" src="https://komarev.com/ghpvc/?username=ManGiaco&label=Profile%20views&color=f00000&style=flat" />
 </div>
-<br> 
 <a href="https://git.io/typing-svg"> 
 <img "Português: Letreiro animado onde dou boas vindas ao meu Github. Está escrito: Eai como vai? Seja bem vindo! English: Animated sign where I welcome you to my Github. It says: Hey, how you're doing? You're so welcome!" src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=35&duration=3000&pause=600&color=ffffff&background=none&center=true&vCenter=true&width=1000&lines=Eaaaaiiii+como+vai??+:);Heeeey+how+you're+doing+today?;Seja+bem+vindo+(a)+(e)+!+!+!;You're+so+welcome+:)" />
 </a>
@@ -18,6 +17,7 @@ Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Sou desenvolvedora fullstack em transição de carreira e minhas principais áreas de estudo são Engenharia de dados, Java no back-end e React no front-end. <br>
 Fique a vontade para visitar meu perfil e entrar em contato comigo :)
 <br>
+<br>  
 <br>  
 <img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
 Heey! How you're doing? <br>
