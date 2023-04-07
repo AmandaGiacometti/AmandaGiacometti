@@ -15,16 +15,14 @@
 <img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazilian flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
 Oiii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
-Sou desenvolvedora fullstack em transição de carreira, formada pela Generation (McKinsey & Co.) e pela Data Women Engineering (DataEX). No momento estou cursando Análise e Desenvolvimento de Sistemas na FATEC - SP. <br>
-Minhas principais áreas de estudo são Java no back-end, React no front-end e engenharia de dados. <br>
+Sou desenvolvedora fullstack em transição de carreira e minhas principais áreas de estudo são Engenharia de dados, Java no back-end e React no front-end. <br>
 Fique a vontade para visitar meu perfil e entrar em contato comigo :)
 <br>
 <br>  
 <img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
 Heey! How you're doing? <br>
 I'm Amanda and my pronouns are "she" and "her". <br>
-I'm a full stack developer in career transition, graduated from Generation (McKinsey & Co.) and Data Women Engineering (DataEX). Right now I'm studying Systems Analysis and Development at FATEC University. <br>
-My main study areas are Java (back-end), React (front-end) and data engineering. <br>
+I'm a full stack developer in career transition. My main study areas are Data engineering, Java (back-end) and React (front-end). <br>
 Feel free to visit my profile and get in touch with me :)  
 </div>
 <br>  
@@ -51,8 +49,8 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
     <img align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Spring Boot" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="Microsoft SQL Server" height="60" width="70" src="https://i.imgur.com/mihltqV.png" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Azure" height="50" width="45" src="https://i.imgur.com/vr5vSj7.png" /> &nbsp; &nbsp; &nbsp;    
+    
     
 </div>    
 <br>    
@@ -62,13 +60,6 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
     <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="Tailwind" height="50" width="50" src="https://i.imgur.com/OmanM8K.png" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp; &nbsp; &nbsp;
 </div>    
 <br>    
-<div display="flex" flex-direction="row" align="center">     
-    <img align="center" alt="GIT" height="35" width="80" src="https://i.imgur.com/Uco1sd6.png" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="Github" height="50" width="50" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="Agile scrum" height="70" width="70" src="https://miro.medium.com/max/400/0*KpzqUReoWU_DEwb5.png" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="JIRA" height="30" width="90" src="https://i.imgur.com/EK9b41G.png" /> &nbsp; &nbsp; &nbsp;
-</div> 
