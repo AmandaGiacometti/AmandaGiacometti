@@ -5,7 +5,7 @@
 <img "Português: Letreiro animado onde dou boas vindas ao meu Github. Está escrito: Eai como vai? Seja bem vindo! English: Animated sign where I welcome you to my Github. It says: Hey, how you're doing? You're so welcome!" src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=35&duration=3000&pause=600&color=ffffff&background=none&center=true&vCenter=true&width=1000&lines=Eaaaaiiii+como+vai??+:);Heeeey+how+you're+doing+today?;Seja+bem+vindo+(a)+(e)+!+!+!;You're+so+welcome+:)" />
 </a>
 
-##
+## 
 
 <div>
 <img align="right" width="370" height="360" alt="Português: GIF de um cachorro digitando em um computador. English: GIF of a god typing in a computer" src="https://i.imgur.com/1GfCQq9.gif">
