@@ -46,7 +46,6 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
 </div>
 <br>
 <div display="flex" flex-direction="row" align="center">
-    <a href="https://drive.google.com/drive/folders/1rL2MikSDvpGXvBUTlnj64tcXjIui5sfK?usp=share_link"><img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" target="_blank"></a> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Spring Boot" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
