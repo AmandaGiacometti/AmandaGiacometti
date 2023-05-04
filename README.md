@@ -38,7 +38,7 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
   <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Meu email. My email adress." height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
 </div>
 </div>
-
+ 
 ##
 
 <div display="flex" flex-direction="row" align="center">  
