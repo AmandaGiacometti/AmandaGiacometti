@@ -51,7 +51,7 @@ Você me encontra por aqui: &nbsp; // &nbsp; You can find me here:
     <img align="center" alt="MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Azure" height="45" width="40" src="https://i.imgur.com/vr5vSj7.png" /> &nbsp; &nbsp; &nbsp;  
     <img align="center" alt="Python" height="50" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> &nbsp; &nbsp; &nbsp;
-    
+     
     
 </div>    
 <br>    
