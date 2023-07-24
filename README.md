@@ -14,16 +14,14 @@
 <img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazilian flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
 Oiii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
-Sou desenvolvedora fullstack e minhas principais áreas de estudo são Engenharia de dados, Java no back-end e React no front-end. <br>
-Fique a vontade para visitar meu perfil e entrar em contato comigo :)
+Fique a vontade para visitar meu perfil :)
 <br>
 <br>  
 <br>  
 <img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
 Heey! How you're doing? <br>
 I'm Amanda and my pronouns are "she" and "her". <br>
-I'm a full stack developer. My main study areas are Data engineering, Java (back-end) and React (front-end). <br>
-Feel free to visit my profile and get in touch with me :)  
+Feel free to visit my profile :)  
 </div>
 <br>  
 <br>  
