@@ -28,17 +28,6 @@ Feel free to visit my profile and get in touch with me :)
 <br>  
 <br>  
   
-##  
-  
-<div display="flex" flex-direction="row" align="center">  
-Você me encontra por aqui: &nbsp; // &nbsp; You can find me here: 
-<br>
-<br>  
-  <a href="https://www.linkedin.com/in/mangiaco"><img alt="Meu perfil no Linkedin. My Linkedin profile." height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
-  <a href="mailto:amandagiacomettipedrosa@gmail.com"><img alt="Meu email. My email adress." height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a> &nbsp; &nbsp; &nbsp; 
-</div>
-</div>
- 
 ##
 
 <div display="flex" flex-direction="row" align="center">  
