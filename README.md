@@ -12,7 +12,7 @@
 
 <div align="left">
 <img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazilian flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
-Oiiii! Como você está? <br>
+Oiii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Sou desenvolvedora fullstack e minhas principais áreas de estudo são Engenharia de dados, Java no back-end e React no front-end. <br>
 Fique a vontade para visitar meu perfil e entrar em contato comigo :)
