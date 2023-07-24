@@ -7,23 +7,35 @@
         
 ## 
 
-<div>
+<div> 
+
+<br>
+
 <img align="right" width="400" height="300" alt="Português: GIF de um cachorro digitando em um computador. English: GIF of a god typing in a computer" src="https://i.imgur.com/1GfCQq9.gif">
+
 <br>  
-<div align="left">
-<img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazilian flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> <br>
+
+<div align="left"> 
+        
+<img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazilian flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> 
+<br>
 Oiii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Fique a vontade para visitar meu perfil :)
 <br>
 <br>  
 <br>  
-<img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> <br>
+<img align="left" width="25" height="20" alt="Bandeira do Reino Unido. United kingdom flag" src="https://cdn-icons-png.flaticon.com/512/555/555417.png"> 
+<br>
 Heey! How you're doing? <br>
 I'm Amanda and my pronouns are "she" and "her". <br>
 Feel free to visit my profile :)  
 <br>  
+<br>
 <br>  
+
+</div>
+
 </div>
   
 ##
