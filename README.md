@@ -7,7 +7,6 @@
         
 ## 
 
-<br> 
 <div>
 <img align="right" width="400" height="300" alt="Português: GIF de um cachorro digitando em um computador. English: GIF of a god typing in a computer" src="https://i.imgur.com/1GfCQq9.gif">
 <br>  
