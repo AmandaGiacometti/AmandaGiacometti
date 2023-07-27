@@ -17,7 +17,7 @@
         
 <img align="left" width="25" height="20" alt="Bandeira do Brasil. Brazilian flag." src="https://cdn-icons-png.flaticon.com/512/3022/3022546.png"> 
 <br>
-Oiii! Como você está? <br>
+Oii! Como você está? <br>
 Meu nome é Amanda e meus pronomes são "ela" e "dela". <br>
 Fique a vontade para visitar meu perfil :)
 <br>
