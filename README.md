@@ -46,12 +46,12 @@ Feel free to visit my profile :)
 <br>
 <div display="flex" flex-direction="row" align="center">
     <img align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="Spring Boot" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="C Programming Language" height="50" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" /> &nbsp; &nbsp; &nbsp;    
     <img align="center" alt="MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="Azure" height="45" width="40" src="https://i.imgur.com/vr5vSj7.png" /> &nbsp; &nbsp; &nbsp;  
     <img align="center" alt="Python" height="50" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> &nbsp; &nbsp; &nbsp;
-     
-    
+    <img align="center" alt="Jupyter Notebook" height="55" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="Power BI" height="45" width="45" src="https://paanalytics.net/wp-content/uploads/2022/03/imagem_2022-03-19_084202.png" /> &nbsp; &nbsp; &nbsp;
+        
 </div>    
 <br>    
 <div display="flex" flex-direction="row" align="center">    
@@ -59,7 +59,7 @@ Feel free to visit my profile :)
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
+    <img align="center" alt="React" height="45" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp; &nbsp; &nbsp;
 </div>    
 <br>    
