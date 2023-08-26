@@ -46,7 +46,7 @@ Feel free to visit my profile :)
 <br>
 <div display="flex" flex-direction="row" align="center">
     <img align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
-    <img align="center" alt="C Programming Language" height="50" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" /> &nbsp; &nbsp; &nbsp;    
+    <img align="center" alt="C Programming Language" height="45" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" /> &nbsp; &nbsp; &nbsp;    
     <img align="center" alt="MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Python" height="50" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> &nbsp; &nbsp; &nbsp;
     <img align="center" alt="Jupyter Notebook" height="55" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" /> &nbsp; &nbsp; &nbsp;
